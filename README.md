@@ -33,6 +33,9 @@ Tic Tac Toe is a simple game where two players, X and O, take turns marking a sq
 3. Win Condition Alert: Alert message or notification when a player wins.
 4. Draw Condition Alert: Alert message or notification when the game ends in a draw.
 5. Reset Game Button: A button to restart the game.
+   
+#Output Images:
 
+<img width="1440" alt="Screenshot 2024-12-21 at 10 22 24 PM" src="https://github.com/user-attachments/assets/460635ce-a5ee-498b-bdef-4db1be48756e" />
 
-
+<img width="1440" alt="Screenshot 2024-12-21 at 10 22 34 PM" src="https://github.com/user-attachments/assets/c65f895d-978e-4273-b356-fd1baacd462c" />
